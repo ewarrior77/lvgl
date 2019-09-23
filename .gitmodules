@@ -3,4 +3,4 @@
 	url = https://github.com/littlevgl/lv_examples
 [submodule "lv_core"]
 	path = lv_core
-	url = https://github.com/littlevgl/lvgl.git
+	url = https://github.com/ewarrior77/lv_gui.git
